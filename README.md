@@ -1,9 +1,29 @@
-# 👋 Olá, seja bem-vindo ao meu GitHub!  
+# 👋 Olá, seja bem-vindo!  
 
-Sou estudante do **curso Técnico em Informática no Senac Tatuapé** e estou dando meus primeiros passos na área de tecnologia. Ainda não tenho experiência com desenvolvimento, mas estou aprendendo aos poucos e construindo a base necessária para seguir nesse caminho.  
+Sou estudante do **Senac Tatuapé**, cursando **Técnico em Informática**.  
+Aqui no GitHub é onde compartilho meus estudos e registro meu **desenvolvimento na área de tecnologia**. 🚀  
 
-Este espaço funciona como um **registro da minha evolução**: aqui você vai encontrar projetos, exercícios e experimentos que faço durante o curso. Cada repositório representa um aprendizado novo e um passo a mais no meu desenvolvimento como futuro profissional de TI.  
+---
 
-Minha ideia é usar este GitHub como um **diário de estudos**, mostrando como estou começando do zero e avançando pouco a pouco. Pode não estar perfeito agora, mas é justamente esse processo de prática e tentativa que me faz evoluir. 🚀  
+## 📌 Sobre mim  
+- Sempre busco aprender mais sobre **tecnologia**  
+- Tenho interesse especial em **programação** e **manutenção de computadores**  
+- 🎶 **Música** e 🎮 **jogos** são meus principais passatempos  
 
-Seja bem-vindo(a) para acompanhar essa jornada! ✨  
+---
+
+## 🎯 Objetivo  
+Quero me tornar **programador e técnico**:  
+- 💻 Consertar e montar computadores personalizados 
+- 🕹️ Estudar **programação de jogos**, tanto para **criar** quanto para **ajudar no desenvolvimento** de projetos  
+
+---
+
+## 🎧 Hobbies  
+- Jogos  
+- Música  
+- Conteúdos de terror 👻  
+
+---
+## OBS:
+**Cada projeto publicado aqui representa um passo a mais rumo ao meu objetivo!**  
