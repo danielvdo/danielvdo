@@ -14,7 +14,7 @@ Aqui no GitHub é onde compartilho meus estudos e registro meu **desenvolvimento
 
 ## 🎯 Objetivo  
 Quero me tornar **programador e técnico**:  
-- 💻 Consertar e montar computadores personalizados 
+- 💻 Consertar e montar computadores **personalizados**
 - 🕹️ Estudar **programação de jogos**, tanto para **criar** quanto para **ajudar no desenvolvimento** de projetos  
 
 ---
