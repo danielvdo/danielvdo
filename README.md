@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo!  
 
-Sou estudante do **Senac Tatuapé**, cursando **Técnico em Informática**.  
+Sou estudante do **Senac Tatuapé**, cursando **Infórmatica**.  
 Aqui no GitHub é onde compartilho meus estudos e registro meu **desenvolvimento na área de tecnologia**. 🚀  
 
 ---
