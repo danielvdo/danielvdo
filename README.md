@@ -1,3 +1,5 @@
+![](banner.jpg)
+
 # 👋 Olá, seja bem-vindo!  
 
 Sou estudante do **Senac Tatuapé**, cursando **Infórmatica**.  
