@@ -1,4 +1,4 @@
-![](banner.jpg)
+![](banner.png)
 <h1 align="center">Olá, seja bem-vindo!</h1>
 <h3 align="center">Sou estudante do Senac Tatuapé, cursando Infórmatica, aqui no GitHub é onde compartilho meus estudos e registro meu desenvolvimento na área de tecnologia.</h3>
 <hr>
