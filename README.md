@@ -23,7 +23,7 @@ Quero me tornar **programador e técnico**:
 ## 🎧 Hobbies  
 - Jogos  
 - Música  
-- Conteúdos de terror 👻  
+- Conteúdos de terror 
 
 ---
 ## OBS:
