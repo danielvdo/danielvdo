@@ -9,7 +9,7 @@
 
 - Tenho interesse especial em **programação** e **manutenção de computadores**  
 
-- 🎶 **Música** e 🎮 **jogos** são meus principais passatempos  
+- **Música** e **jogos** são meus principais passatempos  
 
 ---
 
